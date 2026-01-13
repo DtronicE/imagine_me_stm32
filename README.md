@@ -1,7 +1,3 @@
-Since this is a separate project specifically for your first STM32 board, the README should highlight your transition into more advanced ARM-based development.
-
-Here is a professional and engaging README template for your STM32 Project folder:
-
 My First STM32 Hardware Design: Custom Development Board
 🚀 Overview
 This repository contains the design files for my first custom-built STM32 development board. Moving beyond hobbyist modules, this project represents a deep dive into professional-grade ARM Cortex-M architecture and custom PCB engineering.
