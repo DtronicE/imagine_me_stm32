@@ -1,9 +1,8 @@
-# My First STM32 Custom Development Board
+# STM32 Custom Development Board
 
-## Overview
-This repository contains the design files for my first custom-built STM32 development board. The project was created as a hands-on way to move beyond off-the-shelf modules and design a small, self-contained board around an STM32 microcontroller.
+A first custom STM32 development-board project, designed to explore the full hardware workflow—from schematic capture and PCB layout in KiCad to configuring the STM32F103C8T6 in STM32CubeMX.
 
-The board is centered around the STM32F103C8T6 (Blue Pill class MCU), with USB, UART, I2C, and SWD support included in the design. The files are prepared for editing and refinement in KiCad.
+This repository includes the board’s design files and project configuration. The design brings together USB device support, USART1, I2C2, and SWD programming/debugging in a compact 2-layer board. It is a learning-focused project, and the files are shared as a basis for continued review and refinement.
 
 ## Hardware Features
 - STM32F103C8T6 microcontroller
