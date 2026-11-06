@@ -5,6 +5,17 @@ This repository contains the design files for my first custom-built STM32 develo
 
 The board is centered around the STM32F103C8T6 (Blue Pill class MCU), with USB, UART, I2C, and SWD support included in the design. The files are prepared for editing and refinement in KiCad.
 
+## Hardware Features
+- STM32F103C8T6 microcontroller
+- 3.3V regulated power supply for the MCU and peripherals
+- SWD programming and debugging header
+- USB device interface for serial communication and debugging
+- USART1 support for UART communication
+- I2C2 support for peripheral connectivity
+- Solid ground plane for improved signal integrity
+- 2-layer FR4 PCB implementation
+- Custom symbol and footprint work in the KiCad project
+
 ## Technical Highlights
 - Core microcontroller: STM32F103C8T6-based design
 - Power system: 3.3V regulation for the MCU and supporting circuitry
